@@ -10,16 +10,13 @@ module.exports = {
       'white': '#FFFFFF',
       'green': '#00AC4F'
     },
-    screens: {
-      'tablet': '834px',
-      // => @media (min-width: 640px) { ... }
+    // screens: {
+    //   'tablet': '834px',
 
-      'laptop': '1280',
-      // => @media (min-width: 1024px) { ... }
+    //   'laptop': '1280',
 
-      'mobile': '375px',
-      // => @media (min-width: 1280px) { ... }
-    },
+    //   'mobile': '375px',
+    // },
     extend: {
     },
   },
